@@ -1,3 +1,4 @@
+        // Upper Camel Case
 public class NamigJava {
 
     public static void main(String[] args) {
@@ -17,6 +18,10 @@ public class NamigJava {
         int POSITION = -5;
         int MAX_WIDTH = 9999;
         int MIN_WIDTH = 1;
+
+        // Lower Camel Case
+        String fullName = "Pedro Luis Campodonico huamanchumo";
+        int sizeInCentimeters = 26;
 
     }
 
