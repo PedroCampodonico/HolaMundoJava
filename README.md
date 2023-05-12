@@ -7,4 +7,6 @@
 - Implementé estructuras condicionales
 - Creé funciones usando Java
 
+> Gracias Platzi 💚
+
 ###End
